@@ -1,0 +1,500 @@
+"Symbol","Security","Added","Removed"
+"MMM","3M",1957-03-04,NA
+"AOS","A. O. Smith",2017-07-26,NA
+"ABT","Abbott",1957-03-04,NA
+"ABBV","AbbVie",2012-12-31,NA
+"ACN","Accenture",2011-07-06,NA
+"ADBE","Adobe Inc.",1997-05-05,NA
+"AMD","Advanced Micro Devices",2017-03-20,NA
+"AES","AES Corporation",1998-10-02,NA
+"AFL","Aflac",1999-05-28,NA
+"A","Agilent Technologies",2000-06-05,NA
+"APD","Air Products and Chemicals",1985-04-30,NA
+"ABNB","Airbnb",2023-09-18,NA
+"AKAM","Akamai",2007-07-12,NA
+"ALB","Albemarle Corporation",2016-07-01,NA
+"ARE","Alexandria Real Estate Equities",2017-03-20,NA
+"ALGN","Align Technology",2017-06-19,NA
+"ALLE","Allegion",2013-12-02,NA
+"LNT","Alliant Energy",2016-07-01,NA
+"ALL","Allstate",1995-07-13,NA
+"GOOGL","Alphabet Inc. (Class A)",2014-04-03,NA
+"GOOG","Alphabet Inc. (Class C)",2006-04-03,NA
+"MO","Altria",1957-03-04,NA
+"AMZN","Amazon",2005-11-18,NA
+"AMCR","Amcor",2019-06-07,NA
+"AEE","Ameren",1991-09-19,NA
+"AAL","American Airlines Group",2015-03-23,NA
+"AEP","American Electric Power",1957-03-04,NA
+"AXP","American Express",1976-06-30,NA
+"AIG","American International Group",1980-03-31,NA
+"AMT","American Tower",2007-11-19,NA
+"AWK","American Water Works",2016-03-04,NA
+"AMP","Ameriprise Financial",2005-10-03,NA
+"AME","Ametek",2013-09-23,NA
+"AMGN","Amgen",1992-01-02,NA
+"APH","Amphenol",2008-09-30,NA
+"ADI","Analog Devices",1999-10-12,NA
+"ANSS","Ansys",2017-06-19,NA
+"AON","Aon",1996-04-23,NA
+"APA","APA Corporation",1997-07-28,NA
+"AAPL","Apple Inc.",1982-11-30,NA
+"AMAT","Applied Materials",1995-03-16,NA
+"APTV","Aptiv",2012-12-24,NA
+"ACGL","Arch Capital Group",2022-11-01,NA
+"ADM","Archer-Daniels-Midland",1957-03-04,NA
+"ANET","Arista Networks",2018-08-28,NA
+"AJG","Arthur J. Gallagher & Co.",2016-05-31,NA
+"AIZ","Assurant",2007-04-10,NA
+"ATO","Atmos Energy",2019-02-15,NA
+"ADSK","Autodesk",1989-12-01,NA
+"ADP","Automated Data Processing",1981-03-31,NA
+"AZO","AutoZone",1997-01-02,NA
+"AVB","AvalonBay Communities",2007-01-10,NA
+"AVY","Avery Dennison",1987-12-31,NA
+"AXON","Axon Enterprise",2023-05-04,NA
+"BKR","Baker Hughes",2017-07-07,NA
+"BALL","Ball Corporation",1984-10-31,NA
+"BAC","Bank of America",1976-06-30,NA
+"BK","Bank of New York Mellon",1995-03-31,NA
+"BBWI","Bath & Body Works, Inc.",1983-09-30,NA
+"BAX","Baxter International",1972-09-30,NA
+"BDX","Becton Dickinson",1972-09-30,NA
+"BBY","Best Buy",1999-06-29,NA
+"BIO","Bio-Rad",2020-06-22,NA
+"TECH","Bio-Techne",2021-08-30,NA
+"BIIB","Biogen",2003-11-13,NA
+"BLK","BlackRock",2011-04-04,NA
+"BX","Blackstone",2023-09-18,NA
+"BA","Boeing",1957-03-04,NA
+"BKNG","Booking Holdings",2009-11-06,NA
+"BWA","BorgWarner",2011-12-19,NA
+"BXP","Boston Properties",2006-04-03,NA
+"BSX","Boston Scientific",1995-02-24,NA
+"BMY","Bristol Myers Squibb",1957-03-04,NA
+"AVGO","Broadcom Inc.",2014-05-08,NA
+"BR","Broadridge Financial Solutions",2018-06-18,NA
+"BRO","Brown & Brown",2021-09-20,NA
+"BLDR","Builders FirstSource",2023-12-18,NA
+"BG","Bunge Global SA",2023-03-15,NA
+"CDNS","Cadence Design Systems",2017-09-18,NA
+"CZR","Caesars Entertainment",2021-03-22,NA
+"CPT","Camden Property Trust",2022-04-04,NA
+"CPB","Campbell Soup Company",1957-03-04,NA
+"COF","Capital One",1998-07-01,NA
+"CAH","Cardinal Health",1997-05-27,NA
+"KMX","CarMax",2010-06-28,NA
+"CCL","Carnival",1998-12-22,NA
+"CARR","Carrier Global",2020-04-03,NA
+"CTLT","Catalent",2020-09-21,NA
+"CAT","Caterpillar Inc.",1957-03-04,NA
+"CBOE","Cboe Global Markets",2017-03-01,NA
+"CBRE","CBRE Group",2006-11-10,NA
+"CDW","CDW",2019-09-23,NA
+"CE","Celanese",2018-12-24,NA
+"COR","Cencora",2001-08-30,NA
+"CNC","Centene Corporation",2016-03-30,NA
+"CNP","CenterPoint Energy",1985-07-31,NA
+"CDAY","Ceridian",2021-09-20,NA
+"CF","CF Industries",2008-08-27,NA
+"CHRW","CH Robinson",2007-03-02,NA
+"CRL","Charles River Laboratories",2021-05-14,NA
+"SCHW","Charles Schwab Corporation",1997-06-02,NA
+"CHTR","Charter Communications",2016-09-08,NA
+"CVX","Chevron Corporation",1957-03-04,NA
+"CMG","Chipotle Mexican Grill",2011-04-28,NA
+"CB","Chubb Limited",2010-07-15,NA
+"CHD","Church & Dwight",2015-12-29,NA
+"CI","Cigna",1976-06-30,NA
+"CINF","Cincinnati Financial",1997-12-18,NA
+"CTAS","Cintas",2001-03-01,NA
+"CSCO","Cisco",1993-12-01,NA
+"C","Citigroup",1988-05-31,NA
+"CFG","Citizens Financial Group",2016-01-29,NA
+"CLX","Clorox",1969-03-31,NA
+"CME","CME Group",2006-08-11,NA
+"CMS","CMS Energy",1957-03-04,NA
+"KO","Coca-Cola Company (The)",1957-03-04,NA
+"CTSH","Cognizant",2006-11-17,NA
+"CL","Colgate-Palmolive",1957-03-04,NA
+"CMCSA","Comcast",2002-11-19,NA
+"CMA","Comerica",1995-12-01,NA
+"CAG","Conagra Brands",1983-08-31,NA
+"COP","ConocoPhillips",1957-03-04,NA
+"ED","Consolidated Edison",1957-03-04,NA
+"STZ","Constellation Brands",2005-07-01,NA
+"CEG","Constellation Energy",2022-02-02,NA
+"COO","CooperCompanies",2016-09-23,NA
+"CPRT","Copart",2018-07-02,NA
+"GLW","Corning Inc.",1995-02-27,NA
+"CTVA","Corteva",2019-06-03,NA
+"CSGP","CoStar Group",2022-09-19,NA
+"COST","Costco",1993-10-01,NA
+"CTRA","Coterra",2008-06-23,NA
+"CCI","Crown Castle",2012-03-14,NA
+"CSX","CSX",1957-03-04,NA
+"CMI","Cummins",1965-03-31,NA
+"CVS","CVS Health",1957-03-04,NA
+"DHR","Danaher Corporation",1998-11-18,NA
+"DRI","Darden Restaurants",1995-05-31,NA
+"DVA","DaVita Inc.",2008-07-31,NA
+"DE","John Deere",1957-03-04,NA
+"DAL","Delta Air Lines",2013-09-11,NA
+"XRAY","Dentsply Sirona",2008-11-14,NA
+"DVN","Devon Energy",2000-08-30,NA
+"DXCM","Dexcom",2020-05-12,NA
+"FANG","Diamondback Energy",2018-12-03,NA
+"DLR","Digital Realty",2016-05-18,NA
+"DFS","Discover Financial",2007-07-02,NA
+"DG","Dollar General",2012-12-03,NA
+"DLTR","Dollar Tree",2011-12-19,NA
+"D","Dominion Energy",2016-11-30,NA
+"DPZ","Domino's",2020-05-12,NA
+"DOV","Dover Corporation",1985-10-31,NA
+"DOW","Dow Inc.",2019-04-01,NA
+"DHI","DR Horton",2005-06-22,NA
+"DTE","DTE Energy",1957-03-04,NA
+"DUK","Duke Energy",1976-06-30,NA
+"DD","DuPont",2019-04-02,NA
+"EMN","Eastman Chemical Company",1994-01-01,NA
+"ETN","Eaton Corporation",1957-03-04,NA
+"EBAY","eBay",2002-07-22,NA
+"ECL","Ecolab",1989-01-31,NA
+"EIX","Edison International",1957-03-04,NA
+"EW","Edwards Lifesciences",2011-04-01,NA
+"EA","Electronic Arts",2002-07-22,NA
+"ELV","Elevance Health",2002-07-25,NA
+"LLY","Eli Lilly and Company",1970-12-31,NA
+"EMR","Emerson Electric",1965-03-31,NA
+"ENPH","Enphase",2021-01-07,NA
+"ETR","Entergy",1957-03-04,NA
+"EOG","EOG Resources",2000-11-02,NA
+"EPAM","EPAM Systems",2021-12-14,NA
+"EQT","EQT",2022-10-03,NA
+"EFX","Equifax",1997-06-19,NA
+"EQIX","Equinix",2015-03-20,NA
+"EQR","Equity Residential",2001-12-03,NA
+"ESS","Essex Property Trust",2014-04-02,NA
+"EL","Estée Lauder Companies (The)",2006-01-05,NA
+"ETSY","Etsy",2020-09-21,NA
+"EG","Everest Re",2017-06-19,NA
+"EVRG","Evergy",2018-06-05,NA
+"ES","Eversource",2009-07-24,NA
+"EXC","Exelon",1957-03-04,NA
+"EXPE","Expedia Group",2007-10-02,NA
+"EXPD","Expeditors International",2007-10-10,NA
+"EXR","Extra Space Storage",2016-01-19,NA
+"XOM","ExxonMobil",1957-03-04,NA
+"FFIV","F5, Inc.",2010-12-20,NA
+"FDS","FactSet",2021-12-20,NA
+"FICO","Fair Isaac",2023-03-20,NA
+"FAST","Fastenal",2008-09-15,NA
+"FRT","Federal Realty",2016-02-01,NA
+"FDX","FedEx",1980-12-31,NA
+"FIS","Fidelity National Information Services",2006-11-10,NA
+"FITB","Fifth Third Bank",1996-03-29,NA
+"FSLR","First Solar",2022-12-19,NA
+"FE","FirstEnergy",1997-11-28,NA
+"FI","Fiserv",2001-04-02,NA
+"FLT","Fleetcor",2018-06-20,NA
+"FMC","FMC Corporation",2009-08-19,NA
+"FTNT","Fortinet",2018-10-11,NA
+"FTV","Fortive",2016-07-01,NA
+"FOXA","Fox Corporation (Class A)",2013-07-01,NA
+"FOX","Fox Corporation (Class B)",2015-09-18,NA
+"BEN","Franklin Templeton",1998-04-30,NA
+"FCX","Freeport-McMoRan",2011-07-01,NA
+"GRMN","Garmin",2012-12-12,NA
+"IT","Gartner",2017-04-05,NA
+"GEHC","GE HealthCare",2023-01-04,NA
+"GEN","Gen Digital",2003-03-25,NA
+"GNRC","Generac",2021-03-22,NA
+"GD","General Dynamics",1957-03-04,NA
+"GE","General Electric",1957-03-04,NA
+"GIS","General Mills",1957-03-04,NA
+"GM","General Motors",2013-06-06,NA
+"GPC","Genuine Parts Company",1973-12-31,NA
+"GILD","Gilead Sciences",2004-07-01,NA
+"GPN","Global Payments",2016-04-25,NA
+"GL","Globe Life",1989-04-30,NA
+"GS","Goldman Sachs",2002-07-22,NA
+"HAL","Halliburton",1957-03-04,NA
+"HIG","Hartford (The)",1957-03-04,NA
+"HAS","Hasbro",1984-09-30,NA
+"HCA","HCA Healthcare",2015-01-27,NA
+"PEAK","Healthpeak",2008-03-31,NA
+"HSIC","Henry Schein",2015-03-17,NA
+"HSY","Hershey's",1957-03-04,NA
+"HES","Hess Corporation",1984-05-31,NA
+"HPE","Hewlett Packard Enterprise",2015-11-02,NA
+"HLT","Hilton Worldwide",2017-06-19,NA
+"HOLX","Hologic",2016-03-30,NA
+"HD","Home Depot (The)",1988-03-31,NA
+"HON","Honeywell",1957-03-04,NA
+"HRL","Hormel Foods",2009-03-04,NA
+"HST","Host Hotels & Resorts",2007-03-20,NA
+"HWM","Howmet Aerospace",1957-03-04,NA
+"HPQ","HP Inc.",1974-12-31,NA
+"HUBB","Hubbell Incorporated",2023-10-18,NA
+"HUM","Humana",2012-12-10,NA
+"HBAN","Huntington Bancshares",1997-08-28,NA
+"HII","Huntington Ingalls Industries",2018-01-03,NA
+"IBM","IBM",1957-03-04,NA
+"IEX","IDEX Corporation",2019-08-09,NA
+"IDXX","Idexx Laboratories",2017-01-05,NA
+"ITW","Illinois Tool Works",1986-02-28,NA
+"ILMN","Illumina",2015-11-19,NA
+"INCY","Incyte",2017-02-28,NA
+"IR","Ingersoll Rand",2020-03-03,NA
+"PODD","Insulet",2023-03-15,NA
+"INTC","Intel",1976-12-31,NA
+"ICE","Intercontinental Exchange",2007-09-26,NA
+"IFF","International Flavors & Fragrances",1976-03-31,NA
+"IP","International Paper",1957-03-04,NA
+"IPG","Interpublic Group of Companies (The)",1992-10-01,NA
+"INTU","Intuit",2000-12-05,NA
+"ISRG","Intuitive Surgical",2008-06-02,NA
+"IVZ","Invesco",2008-08-21,NA
+"INVH","Invitation Homes",2022-09-19,NA
+"IQV","IQVIA",2017-08-29,NA
+"IRM","Iron Mountain",2009-01-06,NA
+"JBHT","J.B. Hunt",2015-07-01,NA
+"JBL","Jabil",2023-12-18,NA
+"JKHY","Jack Henry & Associates",2018-11-13,NA
+"J","Jacobs Solutions",2007-10-26,NA
+"JNJ","Johnson & Johnson",1973-06-30,NA
+"JCI","Johnson Controls",2010-08-27,NA
+"JPM","JPMorgan Chase",1975-06-30,NA
+"JNPR","Juniper Networks",2006-06-02,NA
+"K","Kellanova",1989-09-11,NA
+"KVUE","Kenvue",2023-08-25,NA
+"KDP","Keurig Dr Pepper",2022-06-21,NA
+"KEY","KeyCorp",1994-03-01,NA
+"KEYS","Keysight",2018-11-06,NA
+"KMB","Kimberly-Clark",1957-03-04,NA
+"KIM","Kimco Realty",2006-04-04,NA
+"KMI","Kinder Morgan",2012-05-25,NA
+"KLAC","KLA Corporation",1997-09-30,NA
+"KHC","Kraft Heinz",2015-07-06,NA
+"KR","Kroger",1957-03-04,NA
+"LHX","L3Harris",2008-09-22,NA
+"LH","LabCorp",2004-11-01,NA
+"LRCX","Lam Research",2012-06-29,NA
+"LW","Lamb Weston",2018-12-03,NA
+"LVS","Las Vegas Sands",2019-10-03,NA
+"LDOS","Leidos",2019-08-09,NA
+"LEN","Lennar",2005-10-04,NA
+"LIN","Linde plc",1992-07-01,NA
+"LYV","Live Nation Entertainment",2019-12-23,NA
+"LKQ","LKQ Corporation",2016-05-23,NA
+"LMT","Lockheed Martin",1957-03-04,NA
+"L","Loews Corporation",1995-05-31,NA
+"LOW","Lowe's",1984-02-29,NA
+"LULU","Lululemon Athletica",2023-10-18,NA
+"LYB","LyondellBasell",2012-09-05,NA
+"MTB","M&T Bank",2004-02-23,NA
+"MRO","Marathon Oil",1957-03-04,NA
+"MPC","Marathon Petroleum",2011-07-01,NA
+"MKTX","MarketAxess",2019-07-01,NA
+"MAR","Marriott International",1998-05-29,NA
+"MMC","Marsh McLennan",1987-08-31,NA
+"MLM","Martin Marietta Materials",2014-07-02,NA
+"MAS","Masco",1981-06-30,NA
+"MA","Mastercard",2008-07-18,NA
+"MTCH","Match Group",2021-09-20,NA
+"MKC","McCormick & Company",2003-03-20,NA
+"MCD","McDonald's",1970-06-30,NA
+"MCK","McKesson",1999-01-13,NA
+"MDT","Medtronic",1986-10-31,NA
+"MRK","Merck & Co.",1957-03-04,NA
+"META","Meta Platforms",2013-12-23,NA
+"MET","MetLife",2000-12-11,NA
+"MTD","Mettler Toledo",2016-09-06,NA
+"MGM","MGM Resorts",2017-07-26,NA
+"MCHP","Microchip Technology",2007-09-07,NA
+"MU","Micron Technology",1994-09-27,NA
+"MSFT","Microsoft",1994-06-01,NA
+"MAA","Mid-America Apartment Communities",2016-12-02,NA
+"MRNA","Moderna",2021-07-21,NA
+"MHK","Mohawk Industries",2013-12-23,NA
+"MOH","Molina Healthcare",2022-03-02,NA
+"TAP","Molson Coors Beverage Company",1976-06-30,NA
+"MDLZ","Mondelez International",2012-10-02,NA
+"MPWR","Monolithic Power Systems",2021-02-12,NA
+"MNST","Monster Beverage",2012-06-28,NA
+"MCO","Moody's Corporation",1998-07-01,NA
+"MS","Morgan Stanley",1993-07-29,NA
+"MOS","Mosaic Company (The)",2011-09-26,NA
+"MSI","Motorola Solutions",1957-03-04,NA
+"MSCI","MSCI",2018-04-04,NA
+"NDAQ","Nasdaq, Inc.",2008-10-22,NA
+"NTAP","NetApp",1999-06-25,NA
+"NFLX","Netflix",2010-12-20,NA
+"NEM","Newmont",1969-06-30,NA
+"NWSA","News Corp (Class A)",2013-08-01,NA
+"NWS","News Corp (Class B)",2015-09-18,NA
+"NEE","NextEra Energy",1976-06-30,NA
+"NKE","Nike, Inc.",1988-11-30,NA
+"NI","NiSource",2000-11-02,NA
+"NDSN","Nordson Corporation",2022-02-15,NA
+"NSC","Norfolk Southern Railway",1957-03-04,NA
+"NTRS","Northern Trust",1998-01-30,NA
+"NOC","Northrop Grumman",1957-03-04,NA
+"NCLH","Norwegian Cruise Line Holdings",2017-10-13,NA
+"NRG","NRG Energy",2010-01-29,NA
+"NUE","Nucor",1985-04-30,NA
+"NVDA","Nvidia",2001-11-30,NA
+"NVR","NVR, Inc.",2019-09-26,NA
+"NXPI","NXP Semiconductors",2021-03-22,NA
+"ORLY","O'Reilly Auto Parts",2009-03-27,NA
+"OXY","Occidental Petroleum",1957-03-04,NA
+"ODFL","Old Dominion",2019-12-09,NA
+"OMC","Omnicom Group",1997-12-31,NA
+"ON","ON Semiconductor",2022-06-21,NA
+"OKE","ONEOK",2010-03-15,NA
+"ORCL","Oracle Corporation",1989-08-31,NA
+"OTIS","Otis Worldwide",2020-04-03,NA
+"PCAR","Paccar",1980-12-31,NA
+"PKG","Packaging Corporation of America",2017-07-26,NA
+"PANW","Palo Alto Networks",2023-06-20,NA
+"PARA","Paramount Global",1994-09-30,NA
+"PH","Parker Hannifin",1985-11-30,NA
+"PAYX","Paychex",1998-10-01,NA
+"PAYC","Paycom",2020-01-28,NA
+"PYPL","PayPal",2015-07-20,NA
+"PNR","Pentair",2012-10-01,NA
+"PEP","PepsiCo",1957-03-04,NA
+"PFE","Pfizer",1957-03-04,NA
+"PCG","PG&E Corporation",2022-10-03,NA
+"PM","Philip Morris International",2008-03-31,NA
+"PSX","Phillips 66",2012-05-01,NA
+"PNW","Pinnacle West",1999-10-04,NA
+"PXD","Pioneer Natural Resources",2008-09-24,NA
+"PNC","PNC Financial Services",1988-04-30,NA
+"POOL","Pool Corporation",2020-10-07,NA
+"PPG","PPG Industries",1957-03-04,NA
+"PPL","PPL Corporation",2001-10-01,NA
+"PFG","Principal Financial Group",2002-07-22,NA
+"PG","Procter & Gamble",1957-03-04,NA
+"PGR","Progressive Corporation",1997-08-04,NA
+"PLD","Prologis",2003-07-17,NA
+"PRU","Prudential Financial",2002-07-22,NA
+"PEG","Public Service Enterprise Group",1957-03-04,NA
+"PTC","PTC",2021-04-20,NA
+"PSA","Public Storage",2005-08-19,NA
+"PHM","PulteGroup",1984-04-30,NA
+"QRVO","Qorvo",2015-06-11,NA
+"PWR","Quanta Services",2009-07-01,NA
+"QCOM","Qualcomm",1999-07-22,NA
+"DGX","Quest Diagnostics",2002-12-12,NA
+"RL","Ralph Lauren Corporation",2007-02-02,NA
+"RJF","Raymond James",2017-03-20,NA
+"RTX","RTX Corporation",1957-03-04,NA
+"O","Realty Income",2015-04-07,NA
+"REG","Regency Centers",2017-03-02,NA
+"REGN","Regeneron",2013-05-01,NA
+"RF","Regions Financial Corporation",1998-08-28,NA
+"RSG","Republic Services",2008-12-05,NA
+"RMD","ResMed",2017-07-26,NA
+"RVTY","Revvity",1985-05-31,NA
+"RHI","Robert Half",2000-12-05,NA
+"ROK","Rockwell Automation",2000-03-12,NA
+"ROL","Rollins, Inc.",2018-10-01,NA
+"ROP","Roper Technologies",2009-12-23,NA
+"ROST","Ross Stores",2009-12-21,NA
+"RCL","Royal Caribbean Group",2014-12-05,NA
+"SPGI","S&P Global",1957-03-04,NA
+"CRM","Salesforce",2008-09-15,NA
+"SBAC","SBA Communications",2017-09-01,NA
+"SLB","Schlumberger",1957-03-04,NA
+"STX","Seagate Technology",2012-07-02,NA
+"SRE","Sempra Energy",2017-03-17,NA
+"NOW","ServiceNow",2019-11-21,NA
+"SHW","Sherwin-Williams",1964-06-30,NA
+"SPG","Simon Property Group",2002-06-26,NA
+"SWKS","Skyworks Solutions",2015-03-12,NA
+"SJM","J.M. Smucker Company (The)",2008-11-06,NA
+"SNA","Snap-on",1982-09-30,NA
+"SO","Southern Company",1957-03-04,NA
+"LUV","Southwest Airlines",1994-07-01,NA
+"SWK","Stanley Black & Decker",1982-09-30,NA
+"SBUX","Starbucks",2000-06-07,NA
+"STT","State Street Corporation",2003-03-14,NA
+"STLD","Steel Dynamics",2022-12-22,NA
+"STE","Steris",2019-12-23,NA
+"SYK","Stryker Corporation",2000-12-12,NA
+"SYF","Synchrony Financial",2015-11-18,NA
+"SNPS","Synopsys",2017-03-16,NA
+"SYY","Sysco",1986-12-31,NA
+"TMUS","T-Mobile US",2019-07-15,NA
+"TROW","T. Rowe Price",2019-07-29,NA
+"TTWO","Take-Two Interactive",2018-03-19,NA
+"TPR","Tapestry, Inc.",2004-09-01,NA
+"TRGP","Targa Resources",2022-10-12,NA
+"TGT","Target Corporation",1976-12-31,NA
+"TEL","TE Connectivity",2011-10-17,NA
+"TDY","Teledyne Technologies",2020-06-22,NA
+"TFX","Teleflex",2019-01-18,NA
+"TER","Teradyne",2020-09-21,NA
+"TSLA","Tesla, Inc.",2020-12-21,NA
+"TXN","Texas Instruments",2001-03-12,NA
+"TXT","Textron",1978-12-31,NA
+"TMO","Thermo Fisher Scientific",2004-08-03,NA
+"TJX","TJX Companies",1985-09-30,NA
+"TSCO","Tractor Supply",2014-01-24,NA
+"TT","Trane Technologies",2010-11-17,NA
+"TDG","TransDigm Group",2016-06-03,NA
+"TRV","Travelers Companies (The)",2002-08-21,NA
+"TRMB","Trimble Inc.",2021-01-21,NA
+"TFC","Truist",1997-12-04,NA
+"TYL","Tyler Technologies",2020-06-22,NA
+"TSN","Tyson Foods",2005-08-10,NA
+"USB","U.S. Bank",1999-11-01,NA
+"UBER","Uber",2023-12-18,NA
+"UDR","UDR, Inc.",2016-03-07,NA
+"ULTA","Ulta Beauty",2016-04-18,NA
+"UNP","Union Pacific Corporation",1957-03-04,NA
+"UAL","United Airlines Holdings",2015-09-03,NA
+"UPS","United Parcel Service",2002-07-22,NA
+"URI","United Rentals",2014-09-20,NA
+"UNH","UnitedHealth Group",1994-07-01,NA
+"UHS","Universal Health Services",2014-09-20,NA
+"VLO","Valero Energy",2002-12-20,NA
+"VTR","Ventas",2009-03-04,NA
+"VLTO","Veralto",2023-10-02,NA
+"VRSN","Verisign",2006-02-01,NA
+"VRSK","Verisk",2015-10-08,NA
+"VZ","Verizon",1983-11-30,NA
+"VRTX","Vertex Pharmaceuticals",2013-09-23,NA
+"VFC","VF Corporation",1979-06-30,NA
+"VTRS","Viatris",2004-04-23,NA
+"VICI","Vici Properties",2022-06-08,NA
+"V","Visa Inc.",2009-12-21,NA
+"VMC","Vulcan Materials Company",1999-06-30,NA
+"WRB","Berkley",2019-12-05,NA
+"WAB","Wabtec",2019-02-27,NA
+"WBA","Walgreens Boots Alliance",1979-12-31,NA
+"WMT","Walmart",1982-08-31,NA
+"DIS","Walt Disney",1976-06-30,NA
+"WBD","Warner Bros. Discovery",2022-04-11,NA
+"WM","Waste Management",1998-08-31,NA
+"WAT","Waters Corporation",2002-01-02,NA
+"WEC","WEC Energy Group",2008-10-31,NA
+"WFC","Wells Fargo",1976-06-30,NA
+"WELL","Welltower",2009-01-30,NA
+"WST","West Pharmaceutical Services",2020-05-22,NA
+"WDC","Western Digital",2009-07-01,NA
+"WRK","WestRock",1957-03-04,NA
+"WY","Weyerhaeuser",1979-10-01,NA
+"WHR","Whirlpool Corporation",1958-03-31,NA
+"WMB","Williams Companies",1975-03-31,NA
+"WTW","Willis Towers Watson",2016-01-05,NA
+"GWW","W. W. Grainger",1981-06-30,NA
+"WYNN","Wynn Resorts",2008-11-14,NA
+"XEL","Xcel Energy",1957-03-04,NA
+"XYL","Xylem Inc.",2011-11-01,NA
+"YUM","Yum! Brands",1997-10-06,NA
+"ZBRA","Zebra Technologies",2019-12-23,NA
+"ZBH","Zimmer Biomet",2001-08-07,NA
+"ZION","Zions Bancorporation",2001-06-22,NA
+"ZTS","Zoetis",2013-06-21,NA
